@@ -24,6 +24,8 @@ code .
 ## Contributing
 ---
 Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+(Kodluyoruz Ekibine Teşekkürler !!!)
+[Patika.dev ](https://www.patika.dev/tr)
 
 ## Licence 
 ---
